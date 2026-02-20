@@ -65,17 +65,3 @@ Explore full architecture visuals and system workflows:
 ➡️ [View all technical diagrams](./diagrams/README.md)
 
 ---
-
-
-## 📬 Let’s Connect
-
-
----
-
-
-📬 Let’s Connect
-
-- 📧 Email: hmsachin22@gmail.com  
-- 🐦 X (Twitter): @SachinHMx
-- 💬 Telegram:  @SachinHMx
-- 💼 LinkedIn: https://www.linkedin.com/in/sachin-crypto-web3/
