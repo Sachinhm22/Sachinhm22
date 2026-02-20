@@ -60,7 +60,7 @@ Currently contributing to open-source documentation and building structured tech
 
 ## 📊 Diagrams & Visual Explanations
 
-- System architecture diagrams → (Notion link coming soon)
+- zkEVM execution vs re-execution workflow → [View diagram](./diagrams/zkevm-workflow.png)
 - Protocol flow visuals → (Notion link coming soon)
 - Simplified technical infographics → (Notion link coming soon)
 
