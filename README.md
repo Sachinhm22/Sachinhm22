@@ -40,3 +40,11 @@ Currently contributing to open-source documentation and building structured tech
 - Protocol deep dives & explainers → (Notion link coming soon)
 - Technical blog-style breakdowns → (Notion link coming soon)
 - System design explanations → (Notion link coming soon)
+
+---
+
+## 📊 Diagrams & Visual Explanations
+
+- System architecture diagrams → (Notion link coming soon)
+- Protocol flow visuals → (Notion link coming soon)
+- Simplified technical infographics → (Notion link coming soon)
