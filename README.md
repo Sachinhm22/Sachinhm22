@@ -48,3 +48,12 @@ Currently contributing to open-source documentation and building structured tech
 - System architecture diagrams → (Notion link coming soon)
 - Protocol flow visuals → (Notion link coming soon)
 - Simplified technical infographics → (Notion link coming soon)
+
+---
+
+## 📬 Let’s Connect
+
+- 𝕏 (Twitter): https://x.com/yourhandle  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/Sachinhm22  
+- Email: yourprofessionalemail@gmail.com
