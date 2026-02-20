@@ -43,11 +43,17 @@ Currently contributing to open-source documentation and building structured tech
 ---
 
 
-## ✍️ Technical Writing & Research
+## ✍ Technical Writing & Research
 
-- Protocol deep dives & explainers → (Notion link coming soon)
-- Technical blog-style breakdowns → (Notion link coming soon)
-- System design explanations → (Notion link coming soon)
+• Execution Flow of Fully Homomorphic Encryption in On-chain Privacy Systems → [Read here](https://x.com/SachinHMx/status/2021181084118245383)
+
+• Architecture of Inco Network’s Confidential Execution Layer → [Read here]
+
+• Starknet Perps Chain Architecture → [Read here]
+
+• Hermes Subnet Data Layer for AI Agents → [Read here]
+
+• Quantum Threats to Bitcoin & Post-Quantum Cryptography → [Read here]
 
 
 ---
