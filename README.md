@@ -36,8 +36,8 @@ Currently contributing to open-source documentation and building structured tech
 - Git & GitHub (PRs, reviews, versioned docs)
 - Markdown & technical documentation workflows
 - Protocol research & system breakdowns
-- Diagram tools (Excalidraw / Figma / Whimsical)
 - Web3 fundamentals (smart contracts, Layer 2s, protocol infrastructure)
+- Diagram tools: Excalidraw, Mermaid.js (for system flows in docs)
 
 
 ---
