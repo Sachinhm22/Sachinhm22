@@ -1,6 +1,6 @@
 # 📊 Technical Diagrams & Visual Explanations
 
-## ⚡ zkVM Execution Workflow
+## 🧩 zkVM Execution Workflow
 ![zkVM Workflow](zkvm-workflow.png)
 
 ---
