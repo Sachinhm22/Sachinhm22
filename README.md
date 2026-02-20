@@ -32,3 +32,11 @@ Currently contributing to open-source documentation and building structured tech
 - Protocol research & system breakdowns
 - Diagram tools (Excalidraw / Figma / Whimsical)
 - Web3 fundamentals (smart contracts, L2s, infra concepts)
+
+---
+
+## ✍️ Technical Writing & Research
+
+- Protocol deep dives & explainers → (Notion link coming soon)
+- Technical blog-style breakdowns → (Notion link coming soon)
+- System design explanations → (Notion link coming soon)
