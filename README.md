@@ -10,7 +10,7 @@ Currently contributing to open-source documentation and building structured tech
 
 
 ## 🚀 Documentation Focus
-- Developer documentation & onboarding guides
+- Developer documentation & onboarding flows
 - Protocol deep dives & system explanations
 - Open-source documentation improvements
 - Technical research & architecture breakdowns
