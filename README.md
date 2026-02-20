@@ -58,11 +58,11 @@ Currently contributing to open-source documentation and building structured tech
 ---
 
 
-## 📊 Diagrams & Visual Explanations
+### 📊 Diagrams & Visual Explanations
 
-| Diagram | What It Explains | Link |
-|--------|----------------|------|
-| zkEVM workflow | Re-execution vs proof-based validation model | [View](./diagrams/zkevm-workflow.png) |
+Explore full architecture visuals and system workflows:
+
+➡️ [View all technical diagrams](./diagrams/README.md)
 
 ---
 
