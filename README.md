@@ -75,7 +75,7 @@ Explore full architecture visuals and system workflows:
 
 📬 Let’s Connect
 
-- 📧 Email: your-email@example.com  
-- 🐦 X (Twitter): https://x.com/yourhandle  
-- 💬 Telegram: https://t.me/yourusername  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: hmsachin22@gmail.com  
+- 🐦 X (Twitter): @SachinHMx
+- 💬 Telegram:  @SachinHMx
+- 💼 LinkedIn: https://www.linkedin.com/in/sachin-crypto-web3/
