@@ -21,7 +21,7 @@ Currently contributing to open-source documentation and building structured tech
 | Project | What I Did | Link |
 |--------|-----------|------|
 | Open-source protocol docs | Fixed clarity issues, improved formatting, typo cleanup | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
-| Protocol deep dive notes | Broke down system flow & components | (add link later) |
+| Protocol deep dive notes | Broke down system flow & components | In progress — upcoming contributions |
 
 ---
 
