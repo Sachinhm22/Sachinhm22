@@ -21,7 +21,7 @@ Currently contributing to open-source documentation and building structured tech
 | Project | What I Did | Link |
 |--------|-----------|------|
 | Scroll Documentation (Production) | Improved documentation clarity, standardized terminology, fixed grammar & formatting across production docs | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
-| Protocol deep dive notes | Broke down system flow & components | In progress — upcoming contributions |
+| Protocol Architecture Deep Dives | Broke down system flow & components | In progress — upcoming contributions |
 
 ---
 
