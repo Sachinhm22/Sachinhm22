@@ -28,32 +28,16 @@ Currently contributing to open-source documentation and building structured tech
 | Scroll Documentation (Production) | Open-Source Improvement | Improved structural clarity, standardized terminology, and resolved formatting inconsistencies across production documentation | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
 
 
-## Relevant Engineering & Web3 Experience
+### Experience
 
-### Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)  
-*Aug 2025 – Jan 2026*
+**Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
+Researched DeFi systems and L2 concepts · Published 250+ structured threads simplifying AMMs, vaults, rollups, and token design.
 
-- Researched DeFi mechanisms, yield models, governance systems, and Layer 2 concepts  
-- Wrote 250+ long-form threads simplifying protocol design and system interactions  
-- Translated complex crypto primitives (AMMs, vaults, rollups, tokenomics) into clear mental models  
+**Associate Content Writer – [Ampli5](https://www.ampli5.ai/)** (Oct 2024 – May 2025)  
+Wrote protocol explainers and architecture-focused blogs · Structured system-level content for Web3 founders.
 
----
-
-### Associate Content Writer – [Ampli5](https://www.ampli5.ai/) (formerly House of Web3)  
-*Oct 2024 – May 2025*
-
-- Wrote technical blogs and protocol explainers for Web3 projects  
-- Structured system-level content for founders and ecosystems  
-- Contributed to proposal documentation and client communication  
-
----
-
-### Aerospace Stress Engineer – [Belcan](https://www.belcan.com/)  
-*Oct 2023 – April 2024*
-
-- Performed structural stress analysis for Airbus wing repair programs  
-- Contributed to repair design documentation and technical reports  
-- Applied systems thinking and precision analysis in safety-critical workflows  
+**Aerospace Stress Engineer – [Belcan](https://www.belcan.com/)** (Oct 2023 – Apr 2024)  
+Performed structural stress analysis for Airbus wing repair programs · Contributed to technical design documentation in safety-critical workflows.
 
 ---
 
