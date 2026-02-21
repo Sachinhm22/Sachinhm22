@@ -27,17 +27,18 @@ Currently contributing to open-source documentation and building structured tech
 | Scroll Rollup Lifecycle Breakdown | Architecture Deep Dive | Designed a lifecycle-first architectural breakdown clarifying transaction state transitions from L2 execution to Ethereum finality | [Repository](https://github.com/Sachinhm22/scroll-rollup-lifecycle) |
 | Scroll Documentation (Production) | Open-Source Improvement | Improved structural clarity, standardized terminology, and resolved formatting inconsistencies across production documentation | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
 
+---
 
 ### Experience
 
 **Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
-Researched DeFi systems and L2 concepts · Published 250+ structured threads simplifying AMMs, vaults, rollups, and token design.
+Researched DeFi systems and L2 concepts · Published 250+ structured threads simplifying AMMs, vaults, rollups, and token architecture.
 
 **Associate Content Writer – [Ampli5](https://www.ampli5.ai/)** (Oct 2024 – May 2025)  
 Wrote protocol explainers and architecture-focused blogs · Structured system-level content for Web3 founders.
 
 **Aerospace Stress Engineer – [Belcan](https://www.belcan.com/)** (Oct 2023 – Apr 2024)  
-Performed structural stress analysis for Airbus wing repair programs · Contributed to technical design documentation in safety-critical workflows.
+Structural stress analysis for Airbus wing repair programs · Authored technical repair documentation in safety-critical environments.
 
 ---
 
