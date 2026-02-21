@@ -20,12 +20,12 @@ Currently contributing to open-source documentation and building structured tech
 ---
 
 
-## 📂 Featured Documentation Contributions
+### 📂 Featured Documentation Work
 
-| Project | Contribution & Impact | Proof |
-|--------|-----------|------|
-| Scroll Documentation (Production) | Improved documentation clarity, standardized terminology, fixed grammar & formatting across production docs | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
-| Protocol Architecture Deep Dives | Broke down system flow & components | In progress — upcoming contributions |
+| Project | Type | Impact | Proof |
+|---------|------|--------|-------|
+| Scroll Rollup Lifecycle Breakdown | Architecture Deep Dive | Designed a lifecycle-first architectural breakdown clarifying transaction state transitions from L2 execution to Ethereum finality | [Repository](https://github.com/Sachinhm22/scroll-rollup-lifecycle) |
+| Scroll Documentation (Production) | Open-Source Improvement | Improved structural clarity, standardized terminology, and resolved formatting inconsistencies across production documentation | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
 
 
 ---
