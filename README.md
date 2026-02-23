@@ -24,7 +24,7 @@ Currently contributing to open-source documentation and building structured tech
 
 | Project | Type | Impact | Proof |
 |---------|------|--------|-------|
-| **Chainlink Functions – Complete Developer Guide (2026)** | Protocol Architecture Documentation | Authored and deployed a production-grade architectural deep dive documenting DON execution flow, subscription accounting model, OCR aggregation layers, Byzantine fault tolerance guarantees, and deterministic runtime constraints. | [Live Docs](https://chainlink-docs-one.vercel.app/functions/) |
+| **Chainlink Functions – Complete Developer Guide (2026)** | Protocol Architecture Documentation | Authored and deployed a system-level guide explaining Chainlink Functions architecture, request lifecycle, billing model, OCR aggregation, and execution constraints. | [Live Docs](https://chainlink-docs-one.vercel.app/functions/) |
 | Scroll Rollup Lifecycle Breakdown | Architecture Deep Dive | Designed a lifecycle-first architectural breakdown clarifying transaction state transitions from L2 execution to Ethereum finality | [Repository](https://github.com/Sachinhm22/scroll-rollup-lifecycle) |
 | Scroll Documentation (Production) | Open-Source Improvement | Improved structural clarity, standardized terminology, and resolved formatting inconsistencies across production documentation | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
 
