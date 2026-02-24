@@ -2,18 +2,20 @@
 
 Web3 Technical Writer
 
-I break down complex blockchain systems into clear, structured content that makes them easier to understand.
+Focused on protocol architecture, execution lifecycles, and developer documentation.
+
+Breaks down complex systems into clear, structured technical guides.
 
 ---
 
 
-## ✍️ What I Write
+## ✍️ Work
 
-- Blog posts
-- Social media content (X / LinkedIn)
-- In-depth protocol articles
-- Developer documentation
-- Product onboarding guides
+- Developer documentation  
+- Technical blogs & articles  
+- Protocol deep dives  
+- Research analysis  
+- Architecture diagrams  
 
 
 
@@ -32,14 +34,17 @@ I break down complex blockchain systems into clear, structured content that make
 
 ## 💼 Experience
 
-**Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
-Researched DeFi systems and L2 concepts · Published 250+ structured threads simplifying AMMs, vaults, rollups, and token architecture.
+**Freelance Technical Writer** (Feb 2026 – Present)  
+Writing developer documentation, protocol deep dives, and long-form technical articles for Web3 teams.
 
-**Associate Content Writer – [Ampli5](https://www.ampli5.ai/)** (Oct 2024 – May 2025)  
-Wrote protocol explainers and architecture-focused blogs · Structured system-level content for Web3 founders.
+**Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
+ELI5 is a DeFi KOL on X (45K+ followers). Researched and wrote 200+ long-form X posts on DeFi, L2, stablecoins, and AI.
+
+**Associate Content Writer – [Ampli5](https://www.ampli5.ai/) (prev. HOW3)** (Oct 2024 – May 2025)  
+Ampli5 is a KOL marketing agency. Managed KOL content strategy and wrote founder-led social posts and blogs.
 
 **Aerospace Stress Engineer – [Belcan](https://www.belcan.com/)** (Oct 2023 – Apr 2024)  
-Structural stress analysis for Airbus wing repair programs · Authored technical repair documentation in safety-critical environments.
+Worked on Airbus wing repair team. Authored technical repair documentation.
 
 ---
 
