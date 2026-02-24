@@ -95,4 +95,8 @@ Worked on Airbus wing repair team. Authored technical repair documentation.
   <img src="https://pbs.twimg.com/profile_images/2008077079129030656/jaQT2EOL_400x400.jpg" height="48"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://pbs.twimg.com/profile_images/1896894327605104641/5NrzBCuR_400x400.jpg" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1684835274424242176/RxuyXAaJ_400x400.jpg" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1942473256067317760/VNmm5x1E_400x400.jpg" height="48"/>
 </p>
