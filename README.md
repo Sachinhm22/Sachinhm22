@@ -30,7 +30,7 @@ Currently contributing to open-source documentation and building structured tech
 
 ---
 
-### Experience
+### 💼 Experience
 
 **Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
 Researched DeFi systems and L2 concepts · Published 250+ structured threads simplifying AMMs, vaults, rollups, and token architecture.
