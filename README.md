@@ -4,8 +4,6 @@ Web3 Technical Writer
 
 Focused on protocol architecture, execution lifecycles, and developer documentation.
 
-Breaks down complex systems into clear, structured technical guides.
-
 ---
 
 
