@@ -20,7 +20,7 @@ I break down complex blockchain systems into clear, structured content that make
 ---
 
 
-### 📂 Featured Documentation Work
+## 📂 Featured Documentation Work
 
 | Project | Type | Impact | Proof |
 |---------|------|--------|-------|
@@ -30,7 +30,7 @@ I break down complex blockchain systems into clear, structured content that make
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
 **Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
 Researched DeFi systems and L2 concepts · Published 250+ structured threads simplifying AMMs, vaults, rollups, and token architecture.
@@ -70,7 +70,7 @@ Structural stress analysis for Airbus wing repair programs · Authored technical
 ---
 
 
-### 📊 Diagrams & Visual Explanations
+## 📊 Diagrams & Visual Explanations
 
 Explore full architecture visuals and system workflows:
 
@@ -78,7 +78,7 @@ Explore full architecture visuals and system workflows:
 
 ---
 
-### 🤝 Clients
+## 🤝 Clients
 
 <p align="left">
   <img src="https://pbs.twimg.com/profile_images/1968586723623051264/YLMMNwnn_400x400.jpg" height="48"/>
