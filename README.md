@@ -2,8 +2,7 @@
 
 Web3 Technical Writer
 
-I break down complex blockchain systems into clear, developer-focused guides, deep dives, and technical documentation.
-
+I break down complex blockchain systems into clear, structured content that makes them easier to understand.
 
 ---
 
@@ -78,3 +77,19 @@ Explore full architecture visuals and system workflows:
 ➡️ [View all technical diagrams](./diagrams/README.md)
 
 ---
+
+### 🤝 Clients
+
+<p align="left">
+  <img src="https://pbs.twimg.com/profile_images/1968586723623051264/YLMMNwnn_400x400.jpg" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1966169454930440195/zRXxsk7P_400x400.jpg" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1886766421855928320/csOM_xcm_400x400.jpg" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1934964351217401856/CsVhR_k4_400x400.jpg" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/2008077079129030656/jaQT2EOL_400x400.jpg" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://pbs.twimg.com/profile_images/1896894327605104641/5NrzBCuR_400x400.jpg" height="48"/>
+</p>
