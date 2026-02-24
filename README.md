@@ -1,20 +1,21 @@
 # Hi, I'm Sachin 👋
 
-Web3 Technical Writer & Documentation Engineer  
+Web3 Technical Writer
 
-I document complex systems and protocols through technical guides, deep dives, and visual explanations.  
-Currently contributing to open-source documentation and building structured technical resources.
+I break down complex blockchain systems into clear, developer-focused guides, deep dives, and technical documentation.
 
 
 ---
 
 
-## 🚀 Documentation Focus
-- Developer documentation & onboarding flows
-- Protocol deep dives & system explanations
-- Open-source documentation improvements
-- Technical research & architecture breakdowns
-- Visual documentation (diagrams & infographics)
+## ✍️ What I Write
+
+- Blog posts
+- Social media content (X / LinkedIn)
+- In-depth protocol articles
+- Developer documentation
+- Product onboarding guides
+
 
 
 ---
@@ -44,13 +45,12 @@ Structural stress analysis for Airbus wing repair programs · Authored technical
 ---
 
 
-## 🛠 Tools & Tech I Work With
+## 🛠️ Tools I Work With
 
-- Git & GitHub (PRs, reviews, versioned docs)
-- Markdown & technical documentation workflows
-- Protocol research & system breakdowns
-- Web3 fundamentals (smart contracts, Layer 2s, protocol infrastructure)
-- Diagram tools: Excalidraw, Mermaid.js (for system flows in docs)
+- Docs: Astro, Starlight, Docusaurus, MDX
+- Versioning: Git & GitHub
+- Diagrams: Excalidraw, Mermaid.js
+- Design: Canva
 
 
 ---
