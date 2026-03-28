@@ -68,10 +68,10 @@ Explore full architecture visuals and system workflows:
 **Freelance Technical Writer** (Feb 2026 – Present)  
 Writing developer documentation, protocol deep dives, and long-form technical articles for Web3 teams.
 
-**Ghostwriter – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
+**Technical Writer – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Jan 2026)  
 ELI5 is a DeFi KOL on X (45K+ followers). Researched and wrote 200+ long-form X posts on DeFi, L2, stablecoins, and AI.
 
-**Associate Content Writer – [Ampli5](https://www.ampli5.ai/) (prev. HOW3)** (Oct 2024 – May 2025)  
+**Associate Technical Content Writer – [Ampli5](https://www.ampli5.ai/) (prev. HOW3)** (Oct 2024 – May 2025)  
 Ampli5 is a KOL marketing agency. Managed KOL content strategy and wrote founder-led social posts and blogs.
 
 **Aerospace Stress Engineer – [Belcan](https://www.belcan.com/)** (Oct 2023 – Apr 2024)  
