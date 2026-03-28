@@ -1,7 +1,7 @@
 # Hi, I'm Sachin
 
-Web3 Technical Writer with 4+ years in crypto, specializing in DeFi, privacy, and infrastructure content. 
-Translate complex blockchain systems into clear, structured technical writing.
+Technical writer with 3+ years of experience in SaaS, Web3, and AI.
+I write developer-focused documentation that turns complex systems into clear, usable workflows.
 
 ---
 
