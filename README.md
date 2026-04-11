@@ -27,6 +27,19 @@ I write articles, threads, blogs, and X tweets that resonate with your brand and
 | Starknet Perps Chain Architecture | System Analysis | L2 trading infra design | [Read](https://x.com/Eli5defi/status/2014624417759023141) |
 | Hermes Subnet Data Layer for AI Agents | Infra Overview | Data layers & AI infra | [Read](https://x.com/Eli5defi/status/2013507798550859792) |
 | Quantum Threats to Bitcoin | Cryptography Analysis | Post-quantum security risks | [Read](https://x.com/Eli5defi/status/1991431847893692423) |
+| MEGA Token Public Sale Breakdown | Thread/Long form | ICO analysis + token mechanics, auction design, and allocation strategy | [Read](https://x.com/Eli5defi/status/1982733037684322406?s=20) |
+| Ethereum Kohaku Privacy Layer | Thread/Long form | Wallet privacy architecture + shift from RPC reliance to local validation | [Read](https://x.com/Eli5defi/status/1978718322872254954?s=20) |
+| Fixed-Rate Protocols in DeFi | Thread/Long form | Shift from volatile yields to fixed-income markets + protocol-level design (Pendle, Spectra, IPOR, Treehouse) | [Read](https://x.com/Eli5defi/status/1978747515530072243?s=20) |
+| Trust & Value Stack for Autonomous Agents | Thread/Long form | Infrastructure for agent economies: payment rails (x402) + trust layer (ERC-8004) enabling autonomous coordination | [Read](https://x.com/Eli5defi/status/2000944193334857920?s=20) |
+| Prediction Markets Phase 2 | Research Thread | Shift from niche markets to core financial infrastructure + liquidity, distribution, and market design | [Read](https://x.com/Eli5defi/status/2013975891324633134?s=20) |
+
+---
+
+## 📊 Diagrams & Visual Explanations
+
+Explore full architecture visuals and system workflows:
+
+➡️ [View all technical diagrams](./diagrams/README.md)
 
 ---
 
@@ -38,14 +51,6 @@ I write articles, threads, blogs, and X tweets that resonate with your brand and
 | Scroll Rollup Lifecycle Breakdown | Architecture Deep Dive | Designed a lifecycle-first architectural breakdown clarifying transaction state transitions from L2 execution to Ethereum finality | [Repository](https://github.com/Sachinhm22/scroll-rollup-lifecycle) |
 | Scroll Documentation (Production) | Open-Source Improvement | Improved structural clarity, standardized terminology, and resolved formatting inconsistencies across production documentation | [PR #551](https://github.com/scroll-tech/scroll-documentation/pull/551) |
 
----
-
-
-## 📊 Diagrams & Visual Explanations
-
-Explore full architecture visuals and system workflows:
-
-➡️ [View all technical diagrams](./diagrams/README.md)
 
 ---
 
