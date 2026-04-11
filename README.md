@@ -64,7 +64,7 @@ Explore visual breakdowns and insights:
 
 ## 💼 Experience
 
-**Ghost Writer – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – feb 2026)  
+**Ghost Writer – [ELI5 DeFi](https://x.com/Eli5defi)** (Aug 2025 – Feb 2026)  
 ELI5 is a DeFi KOL on X (45K+ followers). Researched and wrote 250+ long-form and short form X posts on DeFi, L2, stablecoins, and AI.
 
 **Associate Web3 Content Writer – [Ampli5](https://www.ampli5.ai/) (prev. HOW3)** (Oct 2024 – May 2025)  
